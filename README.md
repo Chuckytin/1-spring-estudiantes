@@ -20,13 +20,6 @@ Antes de ejecutar este proyecto, asegúrate de tener instalado lo siguiente:
 - **MySQL** (como base de datos)
 - Una herramienta como **Postman** o un navegador para probar el sistema.
 
-## Configuración del Proyecto
-
-1. Clonar el repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/control-estudiantes.git
-   cd control-estudiantes
-
 ## Configuración de la base de datos
 spring.datasource.url=jdbc:mysql://localhost:3306/bd_crud_spring
 spring.datasource.username=TU_USUARIO
