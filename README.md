@@ -1,7 +1,6 @@
 # Control de Estudiantes
 
-Este es un proyecto CRUD (Create, Read, Update, Delete) desarrollado con **Spring Boot**, **Thymeleaf**, **Hibernate/JPA** y **MySQL**. 
-Permite gestionar una lista de estudiantes con funcionalidades para crear, listar, editar y eliminar registros.
+Este es un mini proyecto CRUD (Create, Read, Update, Delete) desarrollado con **Spring Boot**, **Thymeleaf**, **Hibernate/JPA** y **MySQL**. 
 
 ## Características
 
